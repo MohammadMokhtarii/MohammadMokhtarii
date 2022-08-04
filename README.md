@@ -1,44 +1,17 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@MohammadMokhtarii 
-MohammadMokhtari
-/
-MohammadMokhtari
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-MohammadMokhtari/README.md
-@MohammadMokhtari
-MohammadMokhtari Update README.md
-Latest commit 1b17bee on Jun 2
- History
- 1 contributor
-78 lines (51 sloc)  3.71 KB
 
 
 <!-- Intro -->
 
 <h1 align="center">Hi there, I'm Mohammad Mokhtari 👋</h1>
  <p> 🌱
-  I'm Mohammad , Web Developer, with proficiency especially on the front-end, but having some experience on developing back-end . <br> I really enjoy learning languages and   frameworks like JavaScript, TypeScript, Angular ,C# and Asp Net .
+  I'm Mohammad , Web Developer, with proficiency especially on the back-end, but having some experience on developing front-end . <br> I really enjoy learning languages and   frameworks like JavaScript, TypeScript,React Angular ,C# and Asp Net Core .
  </p>
 
 <!-- Socials --> 
 
 <p align="center">
   
-<a href="https://www.linkedin.com/in/mohammad-mokhtari-8a668122b/" target="blank">
+<a href="https://www.linkedin.com/in/mohammadmokhtari/" target="blank">
   <img src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67" style="height: 3rem"/>
   </a>
 
@@ -81,10 +54,10 @@ Latest commit 1b17bee on Jun 2
 </div>
 
 <p align="center">
-<a href="https://github.com/MohammadMokhtari">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MohammadMokhtari&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/MohammadMokhtarii">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MohammadMokhtarii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
  </a>
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MohammadMokhtari&layout=compact&langs_count=8&theme=algolia"/>
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MohammadMokhtarii&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 
@@ -92,10 +65,10 @@ Latest commit 1b17bee on Jun 2
 
 ##### Contact Me
 <p align="center">
-<a href="https://www.instagram.com/mohammadmokhtari8/">
-<img src="https://img.shields.io/badge/-@mohammadmokhtari8-E4405F?style=flat&logo=Instagram&logoColor=white"/>
+<a href="https://www.instagram.com/_.mohammad.mokhtari._/">
+<img src="https://img.shields.io/badge/-@mohammadmokhtarii8-E4405F?style=flat&logo=Instagram&logoColor=white"/>
 </a>
-<a href="mailto:mohammad.mokhtari86@gmail.com"><img src="https://img.shields.io/badge/-dev.mohammadmokhtari@outlook.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+<a href="mailto:mohammad.mokhtari86@gmail.com"><img src="https://img.shields.io/badge/-mohammad.mokhtari86@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
 </a>
 </p>
 
