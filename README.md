@@ -57,7 +57,9 @@
 <a href="https://github.com/MohammadMokhtarii">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MohammadMokhtarii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
  </a>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammadmokhtarii&show_icons=true&theme=gotham"/>
+ 
+
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadmokhtari&layout=compact&show_icons=true&theme=gotham"/>
 </p>
 
 
@@ -71,7 +73,6 @@
 <a href="mailto:mohammad.mokhtari86@gmail.com"><img src="https://img.shields.io/badge/-mohammad.mokhtari86@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
 </a>
 </p>
-
 
 
 
