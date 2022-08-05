@@ -57,7 +57,7 @@
 <a href="https://github.com/MohammadMokhtarii">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MohammadMokhtarii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
  </a>
-   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MohammadMokhtarii&layout=compact&langs_count=8&theme=algolia"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammadmokhtarii&show_icons=true&theme=gotham"/>
 </p>
 
 
