@@ -2,7 +2,7 @@
 
 <!-- Intro -->
 
-<h1 align="center">Hi there, I'm Mohammad Mokhtari 👋</h1>
+<h1 align="center">Hi there, I'm Mohammad  👋</h1>
  <p> 🌱
   I'm Mohammad , Web Developer, with proficiency especially on the back-end, but having some experience on developing front-end . <br> I really enjoy learning languages and   frameworks like JavaScript, TypeScript,React Angular ,C# and Asp Net Core .
  </p>
